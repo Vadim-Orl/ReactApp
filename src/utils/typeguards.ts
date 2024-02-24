@@ -1,3 +1,3 @@
-import { GithubUser } from 'types';
+import { GithubError, GithubUser } from 'types';
 
-export const isGithubUser = (user: any): user is GithubUser => 'id' in user;
+export const isGithubUser = (user: GithubError | GithubUser): user is GithubUser => 'id' in user;
