@@ -29,7 +29,6 @@ export const Search = ({ hasError, onSubmitt}: SearchProps) => {
 					<SearchIcon />
 				</label>
 				<input 
-					ref={searchRef} 
 					type="text" 
 					className={styles.search} 
 					id="search"
