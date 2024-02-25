@@ -2,17 +2,17 @@ import { LocalGithubUser } from 'types';
 
 export const defaultUser: LocalGithubUser = {
 	'id': 1231234,
-	'login': 'michey85',
-	'avatar': 'https://avatars.githubusercontent.com/u/36237995?v=4',
-	'name': 'Mikhail Nepomnyashchiy',
-	'company': 'EPAM',
-	'blog': 'mishanep.com',
-	'location': 'Malaga',
-	'bio': 'React/Vue developer',
-	'twitter': 'pcgramota',
-	'repos': 60,
-	'followers': 184,
-	'following': 5,
-	'created': '2018-02-07T16:18:45Z'
+	'login': 'Vadim-Orl',
+	'avatar': 'https://avatars.githubusercontent.com/u/149543443?v=4',
+	'name': 'Vadim Orlov',
+	'company': '',
+	'blog': '',
+	'location': '',
+	'bio': '',
+	'twitter': '',
+	'repos': 11,
+	'followers': 0,
+	'following': 0,
+	'created': '2023-11-01T16:18:45Z'
 
 };
